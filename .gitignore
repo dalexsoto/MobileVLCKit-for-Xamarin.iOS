@@ -1,0 +1,12 @@
+*~
+*.userprefs
+/bin
+*.DS_Store
+[Bb]in
+[Dd]ebug*/
+obj/
+tmp/
+*.g.cs
+*.pidb
+*.dll
+*.mdb
